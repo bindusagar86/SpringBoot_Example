@@ -1,0 +1,1 @@
+This is a simple spring boot securtiy project with custom form login.
